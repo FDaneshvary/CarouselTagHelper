@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+#OwlCarousel Lib
+OwlCarousel2-2.3.4/
+
+
 # User-specific files
 *.rsuser
 *.suo
